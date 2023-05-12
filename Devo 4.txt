@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="es-ar">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>A2 - Devolución Clase 4</title>
+  </head>
+  <body> <br>
+    <div style="text-align: center;">
+      <h3><span style="font-family: Bookman Old Style;">Seminario de Redes
+          Digitales y Sociales</span></h3>
+      <h3><span style="font-family: Bookman Old Style;">Devolución colectiva
+          clase 4 -Aula 2 - P.O.: Erica Allende</span></h3>
+    </div>
+    <div style="text-align: center;">
+      <p style="color: black; font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-align: center;"><span
+
+          style="font-family: Bookman Old Style;"><br>
+        </span></p>
+      <p style="color: black; font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-align: center;"><span
+
+          style="font-family: Bookman Old Style;">Estimados/as
+          colegas...</span></p>
+      <p style="color: black; font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-align: center;"><span
+
+          style="font-family: Bookman Old Style;">En esta oportunidad, les
+          quiero acercar la&nbsp;<span style="color: rgb(102, 0, 204);">Devolución
+            colectiva de la&nbsp;<b>Actividad de la Clase 4</b>.</span></span></p>
+      <p style="color: black; font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-align: center;"><span
+
+          style="font-family: Bookman Old Style;">Como se ha tratado de una
+          actividad con un componente muy importante de experimentación, esta
+          retroalimentación que les comparto se propone contribuir con este
+          proceso que vienen realizando.</span></p>
+      <p style="color: black; font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-align: center;"><span
+
+          style="font-family: Bookman Old Style;">En este sentido, y tras el
+          intercambio que tuvimos al interior del equipo docente del seminario,
+          nos pareció necesario resaltar las siguientes cuestiones.</span></p>
+      <img src="file:///C:/DEVOLUCION%20Clase%204/Aprende_lenguaje_html.jpg" alt=""
+
+        style="width: 215px; height: 143px;"><br>
+      <ol style="text-align: left;">
+        <li style="background-color: rgb(255, 204, 255);">
+          <p><span style="font-family: Bookman Old Style;"><u><b>Algunas buenas
+                  prácticas que pudimos aprender <br>
+                </b></u></span></p>
+        </li>
+      </ol>
+      <p style="color: black; font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-align: left; background-color: rgb(255, 204, 255);"><span
+
+          style="font-family: Bookman Old Style;">La interacción con el lenguaje
+          html y el software para su utilización nos permitió comprender algunos
+          procedimientos&nbsp; importantes como:<br>
+        </span></p>
+      <ul style="text-align: left; background-color: rgb(255, 204, 255);">
+        <li>
+          <p><span style="font-family: Bookman Old Style;"><span style="color: rgb(0, 153, 0);">Descargar
+                y ejecutar&nbsp; editores según las posibilidades&nbsp; de
+                nuestros&nbsp; dispositivos&nbsp; (por ej.,BlueGriffon para
+                compus 64bit ó Kompozer en el caso de aquellos equipos que
+                podían soportar únicamente 32bits.&nbsp; Esto no fue
+                generalizado, pero aquellos casos en que se hizo necesario nos
+                permiten "bajar a tierra" una dimensión de las brechas
+                digitales, así como reflexionar sobre los diseños y sus
+                modificaciones.Más info <b><a href="https://www.xataka.com/basics/que-significa-que-mi-cpu-sea-de-32-o-64-bits-y-cual-es-la-diferencia"
+
+                    target="_blank">aquí</a></b></span></span></p>
+        </li>
+      </ul>
+      <ul style="text-align: left; background-color: rgb(255, 204, 255);">
+        <li>
+          <p><span style="font-family: Bookman Old Style;"><span style="color: rgb(0, 0, 153);">Guardar
+                el archivo index.html sin modificar la denominación, de manera
+                que pudiera ser efectivamente leído por el software de la App
+                con que debíamos publicarlo en línea. Aquí, retomando lo visto
+                en Pensamiento Computacional, se verifica la importancia de
+                proveer instrucciones precisas al agente de procesamiento de la
+                información. Para saber más, ingresá<b> <a href="https://daleclick.blogspot.com/2005/10/el-indexhtml.html"
+
+                    target="_blank">aquí</a></b></span></span></p>
+        </li>
+      </ul>
+      <ul style="text-align: left; background-color: rgb(255, 204, 255);">
+        <li>
+          <p><span style="font-family: Bookman Old Style;"><span style="color: rgb(153, 51, 153);">Explorar
+                las opciones de la aplicación de publicación en línea y el tipo
+                de servicio según el modo de acceso, específicamente la duración
+                de los enlaces generados. </span><br>
+            </span></p>
+        </li>
+      </ul>
+      <ul style="text-align: left; background-color: rgb(255, 204, 255);">
+        <li>
+          <p><span style="font-family: Bookman Old Style;"><span style="color: rgb(102, 0, 0);">Algo
+                similar a lo anterior se dio al colocar enlaces en la página
+                diseñada. En este caso, al igual que con los archivos de
+                imágenes, fue necesario dejar estrictamente el nombre del
+                archivo o enlace, limpiando toda otra referencia a la ruta de
+                ubicación en la propia máquina en que estaba alojada.</span></span></p>
+        </li>
+      </ul>
+      <ul style="text-align: left; background-color: rgb(255, 204, 255);">
+        <li>
+          <p><span style="font-family: Bookman Old Style;"><span style="color: rgb(51, 0, 51);">Finalmente,
+                aunque es más complejo, la importancia de intervenir sobre el
+                código y no sólo sobre el diseño, será un camino a recorrer. Ya
+                que en la actualidad, los editores para la creación de páginas
+                trabajan sobre plantillas en las que se inspecciona lo que se
+                quiere modificar y su ubicación en las líneas de html, para
+                después "meter mano" directamente allí y no en la interfaz
+                gráfica. Esta experimentación, sin dudas más compleja, vale la
+                pena como actividad exploratoria y de formación,
+                independientemente de que luego se defina incursionar a niveles
+                más avanzados de diseño de sitios web. Este <a href="https://www.youtube.com/watch?v=NbmfoJplJa0"
+
+                  target="_blank"><b>tutorial</b></a> les puede dar algunas
+                pistas sobre el proceso.</span></span></p>
+        </li>
+      </ul>
+      <p style="text-align: left; background-color: #ffff66;"><span><b>&nbsp;&nbsp;&nbsp;
+            &nbsp;<span style="font-family: Bookman Old Style;">&nbsp;&nbsp; </span></b><span
+
+            style="font-family: Bookman Old Style;">2. <b>El error en el
+              proceso de aprendizaje en general y en el trabajo con códigos de
+              programación/etiquetado en particular</b></span></span></p>
+      <img src="file:///C:/DEVOLUCION%20Clase%204/debug.png" alt="" style="width: 65px; height: 65px;"><br>
+      <div style="color: black; font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-align: center; background-color: #ffff66;">
+        <p><span style="font-family: Bookman Old Style;"><b>¿Que Es Debug Y Para
+              Qué Sirve? - X5 Servers</b><br>
+          </span></p>
+        <div style="text-align: justify;">
+          <ul>
+            <li>
+              <p><span style="font-family: Bookman Old Style;">Aunque mucho se
+                  dice y escribe sobre esta cuestión, aún las huellas de miradas
+                  previas sobre fallas y errores nos siguen acompañando en la
+                  enseñanza y el aprendizaje. Es importante valorar, no ya que
+                  el error es parte del proceso de aprendizaje, sino que es un
+                  componente central del mismo. No hay aprendizaje sin error,
+                  sin la vivencia de afrontar un problema e indagar en qué
+                  procedimientos y herramientas nos permiten resolverlo,
+                  reconociendo qué pasos nuevos debemos dar en la apropiación
+                  del conocimiento. Una de las potencialidades de los entornos
+                  de programación (o en el caso de html de etiquetado) reside en
+                  la facilidad con que se puede depurar y modificar lo que se
+                  está haciendo. Por ello, todxs aprendimos, no sólo quienes
+                  pudieron "resolver" la actividad.</span><span style="font-family: Bookman Old Style;"></span></p>
+            </li>
+            <li>
+              <p><span style="font-family: Bookman Old Style;">Si les interesa
+                  retomar el tema de la depuración, pueden ingresar a</span><span
+
+                  style="color: white;"><span style="color: black;"><span style="font-family: Bookman Old Style;">
+                      <a href="https://www.hostgator.mx/blog/que-es-debug-en-programacion/"
+
+                        target="_blank"><b>este artículo</b></a></span></span></span></p>
+            </li>
+          </ul>
+          <p><span style="color: white;"><span style="color: black;"><span style="font-family: Bookman Old Style;"></span></span></span></p>
+        </div>
+      </div>
+      <div style="color: black; font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-align: center; background-color: white;">
+        <p style="text-align: justify;"><span style="font-family: Bookman Old Style;"><span
+
+              style="color: white;"><span style="color: black;"><br>
+              </span></span></span></p>
+        <p style="text-align: justify; background-color: #33ff33;"><span style="font-family: Bookman Old Style;"><span
+
+              style="color: white;"><span style="color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                3. </span></span><strong>Trabajo en equipo, siempre clave</strong><br>
+            <strong></strong>Intercambios en los foros, grupos por fuera de los
+            espacios específicos del Aula Virtual de ISEP, muestran su gran
+            valor en todo proceso formativo. Es importante que continuemos
+            fortaleciendo toda dinámica de trabajo en equipo, tanto en este
+            proceso de formación como en las aulas en que tengamos que
+            desempeñarnos. Estaremos haciendo un aporte muy significativo a la
+            conformación de comunidades de buenas prácticas...</span></p>
+      </div>
+      <div style="color: black; font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-align: center; background-color: white;">
+        <p style="text-align: justify; background-color: #ff9900;"><span style="color: white;"><span
+
+              style="color: black;"><span style="font-family: Bookman Old Style;">&nbsp;&nbsp;&nbsp;&nbsp;
+                4. <b>Los espacios del Aula Virtual, de visitantes a residentes</b><br>
+                En algunas intervenciones es posible observar que no se ha
+                podido seguir la conversación, sus aportes, interrogantes,
+                experiencias compartidas, dificultades comunes. Siguiendo los
+                puntos anteriores, el "seguir el hilo" de las conversaciones
+                permite a cada uno/a reconocer en qué momento de la resolución
+                del problema se encuentra, qué puede aportar o tomar de los
+                aportes del grupo, qué lecturas requiere revisar.&nbsp; Es
+                necesario que, sin perder de vista que estamos en tiempos
+                complejos, podamos avanzar de algunas prácticas de tipo
+                "visitante" para integrarnos como "residentes" a los espacios de
+                intercambio que estamos construyendo. No siempre implica una
+                enormidad de tiempo, sino el enfoque con el que lo destinamos.<br>
+              </span></span></span></p>
+      </div>
+      <br>
+      <h2><span style="font-family: Baskerville Old Face;">Espero que la
+          devolución pueda serles de utilidad.</span></h2>
+      <h2><span style="font-family: Baskerville Old Face;">Les agradezco el
+          esfuerzo y lxs invito a seguir recorriendo este camino en equipo</span></h2>
+      <h2><span style="font-family: Baskerville Old Face;"></span></h2>
+      <h2><span style="font-family: Baskerville Old Face;">Un abrazo, Erica<br>
+        </span></h2>
+      <h2><span style="font-family: Baskerville Old Face;"></span> </h2>
+      <p><span><br>
+        </span> </p>
+      <p><span><br>
+        </span> </p>
+      <h1> </h1>
+    </div>
+    <span> </span>
+  </body>
+</html>
